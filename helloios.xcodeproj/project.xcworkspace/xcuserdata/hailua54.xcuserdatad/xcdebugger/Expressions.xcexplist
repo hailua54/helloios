@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GameController viewDidLoad]:GameController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_labelTf.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[StartController prepareForSegue:sender:]:StartController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "des.labelTf.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController viewDidLoad]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_startBtn.frame.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "_startBtn.center.x">
+            </PersistentString>
+            <PersistentString
+               value = "_startBtn.frame.origin.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
